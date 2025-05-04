@@ -8,3 +8,5 @@ otro  ajuste porque ensayo fecth
 
 
 cambios desde mi rama local
+
+estoy haciendo una rama desde ubuntu
