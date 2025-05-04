@@ -4,3 +4,6 @@ mi primera contribucion para github
 
 ----un ajsute desde github 
 
+otro  ajuste
+
+
