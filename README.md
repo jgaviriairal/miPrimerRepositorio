@@ -7,3 +7,4 @@ mi primera contribucion para github
 otro  ajuste porque ensayo fecth
 
 
+cambios desde mi rama local
