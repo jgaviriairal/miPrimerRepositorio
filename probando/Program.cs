@@ -2,4 +2,4 @@
 Console.WriteLine("Hello, platzi!");
   
 
-string stripe_key_api = "ssy_dfhdhdfh_dhdfhh";  
+string stripe_api_key = "sk_test_44g4v4svb4sx44f4gdf4bc";  
