@@ -400,3 +400,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln
 
+#elimina este archivo de configuracion
+appsettings.json
